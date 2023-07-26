@@ -196,6 +196,12 @@ Viho Admin is a premium, fully featured, multipurpose Bootstrap admin template c
 
 ![Logo](https://i.ibb.co/F8c2nmp/01-banner-large-preview.jpg)
 
+## All CDN Collection
+
+```bash
+https://cdnjs.com/
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
