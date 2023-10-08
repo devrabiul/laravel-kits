@@ -96,7 +96,17 @@ Add the facade of this package to the $aliases array.
 php artisan vendor:publish --provider="Intervention\Image\ImageServiceProviderLaravelRecent"
 ```
 
-## P3 - Laravel Permission
+## P3 - WebP (.webp) comes to Laravel
+
+#### [Official Website](https://github.com/buglinjo/laravel-webp)
+WebP is a modern image format that provides superior lossless and lossy compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.
+```bash
+$ composer require buglinjo/laravel-webp
+```
+
+
+
+## P4 - Laravel Permission
 
 #### [Official Website](https://spatie.be/docs/laravel-permission/v5/installation-laravel)
 Through the Roles and Permission-based Access Control feature of Laravel Permissions, developers may provide users access control (ACL). Because of this, from the site's back end, one may change and grant users access.
@@ -121,7 +131,7 @@ php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvid
 php artisan migrate
 ```
 
-## P4 - Laravel Meta Manager
+## P5 - Laravel Meta Manager
 
 #### [Official Website](https://github.com/davmixcool/laravel-meta-manager)
 Laravel Meta Manager is an SEO tool that you can use to enhance the SEO of a website or particular page by adding suggested meta tags to your application.
